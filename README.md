@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ingeniero Mecatronico realizando una maestria en Inteligencia Artificial
+Mechatronic Engineer doing a master's degree in Artificial Intelligence
 
 
 ## 🌐 Socials:
