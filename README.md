@@ -26,3 +26,5 @@ Mechatronic Engineer doing a master's degree in Artificial Intelligence
 [![](https://visitcount.itsvg.in/api?id=rauldgarcia&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rauldgarcia&theme=dar)](https://github.com/anuraghazra/github-readme-stats)
