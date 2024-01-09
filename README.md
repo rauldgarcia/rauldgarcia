@@ -53,6 +53,7 @@ Mechatronic Engineer doing a master's degree in Artificial Intelligence
 
 ## 🕝 Wakatime stats:
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rauldgarcia&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://wakatime.com/share/@rauldgarcia/7d87c47b-f1eb-4c8c-be3c-1a7e5e0d184d.png)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rauldgarcia&icon=2&color=12)](https://visitcount.itsvg.in)
