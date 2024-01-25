@@ -52,7 +52,7 @@ Mechatronics Engineer and Master's student in artificial intelligence with exper
 
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rauldgarcia&theme=onedark)
-![](https://github-readme-stats.vercel.app/api?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rauldgarcia&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
