@@ -1,5 +1,16 @@
 # 💫 About Me:
-Mechatronic Engineer doing a master's degree in Artificial Intelligence
+Mechatronics Engineer and Master's student in artificial intelligence with experience in:
+
+* Machine Learning
+* Supervised Learning
+* Unsupervised Learning
+* Reinforcement Learning
+* Auto-ML
+* Evolutionary Computation
+* Genetic Algorithms
+* Data Analysis
+* Video Games Development
+
 
 
 ## 🌐 Socials:
