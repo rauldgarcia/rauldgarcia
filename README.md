@@ -5,12 +5,14 @@ Mechatronics Engineer and Master's student in artificial intelligence with exper
 * Supervised Learning
 * Unsupervised Learning
 * Reinforcement Learning
+* Artificial Neural Networks
+* Deep Learning
 * Auto-ML
 * Evolutionary Computation
 * Genetic Algorithms
 * Data Analysis
 * Video Games Development
-
+* Robotics
 
 
 ## 🌐 Socials:
