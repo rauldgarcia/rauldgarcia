@@ -22,6 +22,7 @@ Mechatronics Engineer and Master's student in artificial intelligence with exper
 ![GitHub Followers](https://img.shields.io/github/followers/rauldgarcia?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/rauldgarcia?style=for-the-badge)
 [![wakatime](https://wakatime.com/badge/user/c0aebe9a-7979-4f7b-a2b8-954ee30f2466.svg?style=for-the-badge)](https://wakatime.com/@c0aebe9a-7979-4f7b-a2b8-954ee30f2466)
+![counter](https://komarev.com/ghpvc/?username=rauldgarcia&color=blue&style=for-the-badge&abbreviated=true)
 
 
 # 💻 Tech Stack:
@@ -54,13 +55,13 @@ Mechatronics Engineer and Master's student in artificial intelligence with exper
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rauldgarcia&theme=onedark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rauldgarcia&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=rauldgarcia&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=rauldgarcia&theme=onedark&no-frame=false&no-bg=false&margin-w=4&include_all_commits=true&count_private=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rauldgarcia&limit=5&theme=onedark&combine_all_yearly_contributions=true)
