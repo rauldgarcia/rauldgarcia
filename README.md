@@ -63,9 +63,9 @@ Mechatronics Engineer and Master's student in artificial intelligence with exper
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rauldgarcia&theme=onedark&hide_border=false)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![](https://github-readme-stats.vercel.app/api?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 ## 🏆 GitHub Trophies:
