@@ -25,7 +25,7 @@ MSc in Artificial Intelligence | Mechatronics Engineer | ML/AI Engineer with exp
 ![counter](https://komarev.com/ghpvc/?username=rauldgarcia&color=blue&style=for-the-badge&abbreviated=true)
 
 ## 📄 Publications:
-García-Ramón, R.D.; Rechy-Ramirez, E.J.; Alonso-Valerdi, L.M.; Marin-Hernandez, A. Engagement Analysis Using Electroencephalography Signals in Games for Hand Rehabilitation with Dynamic and Random Difficulty Adjust-ments. Appl. Sci. 2024, 14, 8464. https://doi.org/10.3390/app14188464
+García-Ramón, R.D.; Rechy-Ramirez, E.J.; Alonso-Valerdi, L.M.; Marin-Hernandez, A. Engagement Analysis Using Electroencephalography Signals in Games for Hand Rehabilitation with Dynamic and Random Difficulty Adjustments. Appl. Sci. 2024, 14, 8464. https://doi.org/10.3390/app14188464
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
