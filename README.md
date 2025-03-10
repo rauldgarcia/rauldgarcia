@@ -27,7 +27,7 @@ MSc in Artificial Intelligence | Mechatronics Engineer | ML/AI Engineer with exp
 ## 📄 Publications:
 García-Ramón, R.D.; Rechy-Ramirez, E.J.; Alonso-Valerdi, L.M.; Marin-Hernandez, A. Engagement Analysis Using Electroencephalography Signals in Games for Hand Rehabilitation with Dynamic and Random Difficulty Adjustments. Appl. Sci. 2024, 14, 8464. https://doi.org/10.3390/app14188464
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
@@ -68,7 +68,10 @@ García-Ramón, R.D.; Rechy-Ramirez, E.J.; Alonso-Valerdi, L.M.; Marin-Hernandez
 ![langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
+## 🎖️ Certifications:
+<img src="https://github.com/user-attachments/assets/2a4c35de-15d7-401f-bb66-09acc6df470f" width=20% height=20%>
+
+## 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![](https://github-readme-stats.vercel.app/api?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
@@ -85,6 +88,6 @@ García-Ramón, R.D.; Rechy-Ramirez, E.J.; Alonso-Valerdi, L.M.; Marin-Hernandez
 ![](https://wakatime.com/share/@rauldgarcia/7d87c47b-f1eb-4c8c-be3c-1a7e5e0d184d.png)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rauldgarcia&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rauldgarcia&icon=2&color=12)](https://visitcount.itsvg.in )
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
