@@ -67,21 +67,28 @@ García-Ramón, R.D.; Rechy-Ramirez, E.J.; Alonso-Valerdi, L.M.; Marin-Hernandez
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
+![Google sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ## 🎖️ Certifications:
 <img src="https://github.com/user-attachments/assets/2a4c35de-15d7-401f-bb66-09acc6df470f" width=20% height=20%>
 
 ## 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![](https://github-readme-stats.vercel.app/api?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rauldgarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rauldgarcia\&theme=onedark\&hide_border=false\&include_all_commits=true\&count_private=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![](https://github-readme-stats.vercel.app/api?username=rauldgarcia\&theme=onedark\&hide_border=false\&include_all_commits=true&count_private=true\&rank_icon=percentile\&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rauldgarcia\&theme=onedark\&hide_border=false\&include_all_commits=true\&count_private=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rauldgarcia\&theme=onedark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact\&langs_count=10)
 
 ## 🏆 GitHub Trophies:
-![](https://github-trophies.vercel.app/?username=rauldgarcia&theme=onedark&no-frame=false&no-bg=false&margin-w=4&include_all_commits=true&count_private=true)
+![](https://github-trophies.vercel.app/?username=rauldgarcia\&theme=onedark\&no-frame=false\&no-bg=false\&margin-w=4\&include_all_commits=true\&count_private=true)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rauldgarcia&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rauldgarcia\&limit=5\&theme=onedark\&combine_all_yearly_contributions=true)
 
 ## 🕝 Wakatime stats:
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rauldgarcia&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
