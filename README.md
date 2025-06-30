@@ -77,6 +77,7 @@ García-Ramón, R.D.; Rechy-Ramirez, E.J.; Alonso-Valerdi, L.M.; Marin-Hernandez
 
 ## 🎖️ Certifications:
 <img src="https://github.com/user-attachments/assets/76e0d98b-8894-4cac-b075-26e38fb50e6c" width=20% height=20%>
+<img src="https://github.com/user-attachments/assets/e6388129-3083-488c-8ca7-ad1dde044d6f" width=20% height=20%>
 <img src="https://github.com/user-attachments/assets/2a4c35de-15d7-401f-bb66-09acc6df470f" width=20% height=20%>
 
 ## 📊 GitHub Stats:
