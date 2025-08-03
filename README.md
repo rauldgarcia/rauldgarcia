@@ -110,6 +110,7 @@
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+</details>
 
 <details>
 <summary><b>🧾 Productivity & Docs</b></summary>
