@@ -15,8 +15,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raúl-daniel-garcía-ramón-a6417a204)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rauld.garcia95@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/raldanielgarcaramn)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/raul-garcia.ae78138e)
+[![SkillBoost](https://img.shields.io/badge/Google_Cloud-Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://partner.cloudskillsboost.google/public_profiles/7f061694-578c-4830-8fdd-7f5b6761de9a)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/raldanielgarcaramn)
 ![GitHub Followers](https://img.shields.io/github/followers/rauldgarcia?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/rauldgarcia?style=for-the-badge)
 [![Wakatime](https://wakatime.com/badge/user/c0aebe9a-7979-4f7b-a2b8-954ee30f2466.svg?style=for-the-badge)](https://wakatime.com/@c0aebe9a-7979-4f7b-a2b8-954ee30f2466)
@@ -27,9 +28,9 @@
 ## 📄 Publications
 
 **García-Ramón, R.D.**, Rechy-Ramirez, E.J., Alonso-Valerdi, L.M., Marin-Hernandez, A.  
-🧠 *Engagement Analysis Using Electroencephalography Signals in Games for Hand Rehabilitation with Dynamic and Random Difficulty Adjustments*  
+*Engagement Analysis Using Electroencephalography Signals in Games for Hand Rehabilitation with Dynamic and Random Difficulty Adjustments*  
 **Appl. Sci. 2024, 14, 8464**  
-📖 [Read it here](https://doi.org/10.3390/app14188464)
+https://doi.org/10.3390/app14188464
 
 ---
 
