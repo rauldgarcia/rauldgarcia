@@ -1,7 +1,7 @@
 ## ✨ Senior AI Engineer | LLM Architect | MLOps Specialist
 
 **Senior Machine Learning Engineer with an MSc in Artificial Intelligence (Honors Distinction).**
-My primary focus is designing, building, and deploying **end-to-end Generative AI solutions** in production environments. I specialize in orchestrating complex agent systems and optimizing both latency and accuracy for high-impact products.
+My primary focus is designing, building, and deploying **end-to-end Generative AI solutions** in production environments. I specialize in orchestrating hierarchical multi-agent systems (LangGraph), implementing Model Context Protocol (MCP) integrations, building production-grade RAG pipelines on PostgreSQL/pgvector and optimizing both latency and accuracy for high-impact products.
 
 ---
 
@@ -47,6 +47,7 @@ https://doi.org/10.3390/app14188464
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-4B32C3?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### ☁️ Cloud & MLOps
 
@@ -59,6 +60,7 @@ https://doi.org/10.3390/app14188464
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 📊 Data Science & Deep Learning
 
@@ -91,6 +93,8 @@ https://doi.org/10.3390/app14188464
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3d3d3d?style=for-the-badge&logo=oauth&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9edb)
+![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-FCC624?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🖥️ Other Languages
 
