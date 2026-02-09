@@ -46,7 +46,7 @@ A hierarchical multi-agent system designed to autonomously audit and analyze fin
 
 * **Stateful Agent Orchestration:** Built a Supervisor-Worker topology using **LangGraph** with PostgreSQL checkpointing, managing long-running audit sessions across Research, Quant, and Market specialist agents
 * **Advanced RAG Pipeline:** Implemented Corrective RAG (CRAG) with document grading and web search fallback, achieving high-fidelity retrieval from SEC 10-K filings using **pgvector** for semantic search
-* **Production Cloud Deployment:** Fully deployed to **Google Cloud Run** with Cloud SQL (PostgreSQL 16), automated CI/CD via GitHub Actions (~5-8 min deployment cycles), and comprehensive testing (Pytest + RAGAS)
+* **Production Cloud Deployment:** Fully deployed to **Google Cloud Run** with Cloud SQL (PostgreSQL 16), automated CI/CD via GitHub Actions (~30 min full deployment), and comprehensive testing (Pytest + RAGAS)
 * **Dual-Environment LLM Infrastructure:** Configured automatic switching between **Vertex AI** (Gemini 2.5 Flash Lite + text-embedding-004) for production and Ollama (Llama 3.2) for local development
 * **Human-in-the-Loop Protocol:** Engineered fault-tolerant error recovery for Python REPL execution failures, ensuring system reliability during complex quantitative calculations
 * **Model Context Protocol Pioneer:** First-class integration of **MCP** to standardize connections with real-time market data providers (custom Yahoo Finance server)
