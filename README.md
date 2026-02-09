@@ -28,6 +28,34 @@ My primary focus is designing, building, and deploying **end-to-end Generative A
 
 ---
 
+## 🚀 Featured Open Source Projects
+
+### 🏦 [TITAN: Autonomous Financial Intelligence Platform](https://github.com/rauldgarcia/TITAN)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Available-success?style=for-the-badge&logo=googlecloud)](https://titan-frontend-842951566749.us-central1.run.app)
+[![Backend API](https://img.shields.io/badge/API-Deployed-blue?style=for-the-badge&logo=fastapi)](https://titan-backend-842951566749.us-central1.run.app/docs)
+[![Python](https://img.shields.io/badge/python-3.12+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![React](https://img.shields.io/badge/react-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![License](https://img.shields.io/badge/license-Private-red?style=for-the-badge)](https://github.com)
+
+**Production-grade multi-agent financial analysis system deployed on Google Cloud Run**
+
+A hierarchical multi-agent system designed to autonomously audit and analyze financial data from SEC filings. Features a cyberpunk-themed dashboard and advanced RAG capabilities with self-correction mechanisms.
+
+#### 🎯 Key Technical Achievements:
+
+* **Stateful Agent Orchestration:** Built a Supervisor-Worker topology using **LangGraph** with PostgreSQL checkpointing, managing long-running audit sessions across Research, Quant, and Market specialist agents
+* **Advanced RAG Pipeline:** Implemented Corrective RAG (CRAG) with document grading and web search fallback, achieving high-fidelity retrieval from SEC 10-K filings using **pgvector** for semantic search
+* **Production Cloud Deployment:** Fully deployed to **Google Cloud Run** with Cloud SQL (PostgreSQL 16), automated CI/CD via GitHub Actions (~5-8 min deployment cycles), and comprehensive testing (Pytest + RAGAS)
+* **Dual-Environment LLM Infrastructure:** Configured automatic switching between **Vertex AI** (Gemini 2.5 Flash Lite + text-embedding-004) for production and Ollama (Llama 3.2) for local development
+* **Human-in-the-Loop Protocol:** Engineered fault-tolerant error recovery for Python REPL execution failures, ensuring system reliability during complex quantitative calculations
+* **Model Context Protocol Pioneer:** First-class integration of **MCP** to standardize connections with real-time market data providers (custom Yahoo Finance server)
+* **Full Stack Engineering:** Responsive React 18 + TailwindCSS dashboard (Glassmorphism design) with FastAPI AsyncIO backend, multi-stage Docker containerization, and CORS-enabled architecture
+
+**Tech Stack:** LangGraph • FastAPI • React • PostgreSQL • pgvector • Vertex AI • Cloud Run • Docker • GitHub Actions • Pytest • RAGAS • LangSmith
+
+---
+
 ## 📄 Publications
 
 **García-Ramón, R.D.**, Rechy-Ramirez, E.J., Alonso-Valerdi, L.M., Marin-Hernandez, A.  
@@ -179,5 +207,3 @@ https://doi.org/10.3390/app14188464
 ---
 
 [![](https://visitcount.itsvg.in/api?id=rauldgarcia&icon=2&color=12)](https://visitcount.itsvg.in)
-
-
