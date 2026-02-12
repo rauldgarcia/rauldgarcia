@@ -1,16 +1,20 @@
-## ✨ Senior AI Engineer | LLM Architect | MLOps Specialist
+## ✨ Senior Agentic AI Engineer | LLM Architect | Prompt Engineering Specialist
 
-**Senior Machine Learning Engineer with an MSc in Artificial Intelligence (Honors Distinction).**
-My primary focus is designing, building, and deploying **end-to-end Generative AI solutions** in production environments. I specialize in orchestrating hierarchical multi-agent systems (LangGraph), implementing Model Context Protocol (MCP) integrations, building production-grade RAG pipelines on PostgreSQL/pgvector and optimizing both latency and accuracy for high-impact products.
+**Senior Machine Learning Engineer with an MSc in Artificial Intelligence (Honors Distinction).**  
+I specialize in architecting **production-grade Generative AI systems**, designing **hierarchical multi-agent architectures** (LangGraph Supervisor-Worker), and implementing **advanced prompt engineering strategies** (30,000+ lines of production prompts). I bridge the gap between research and scalable deployment on **Google Cloud Platform**, optimizing system latency by **66%** and scaling retrieval accuracy to **95%** in high-load enterprise environments.
 
 ---
 
 ### 🔑 Key Expertise & Impact:
 
-* **LLM Agent Orchestration:** Architected autonomous multi-agent systems using **LangGraph** (like the "Deep Analyzer") to automate complex Data Science tasks and generate autonomous business reports.
-* **Performance Optimization (RAG & Latency):** Proven track record of boosting LLM accuracy (40% to **95%**) using advanced RAG and "Cognitive Load" (few-shot learning), and reducing response latency (60s average to **20s**) through **asynchronous/multithreading** implementation for background visualization generation.
-* **Cloud MLOps & Deployment (GCP):** Implemented MLOps pipelines for continuous benchmarking and scalable deployment of AI solutions on **Google Cloud Platform (Vertex AI, Cloud Run)**.
-* **Applied Research:** Published author in the domain of Deep Learning and Signal Processing (EEG), combining rigorous research with production engineering skills.
+*   **Advanced Prompt Engineering:** Master of scaffolded reasoning, internal Chain-of-Thought (CoT), few-shot dynamic selection, and multi-modal prompt design (Text/Audio/HTML). Engineered **30,000+ lines** of domain-specific prompts for automated root cause analysis.
+*   **LLM Agent Orchestration:** Architected autonomous multi-agent systems using **LangGraph** (Supervisor-Worker topologies) with stateful checkpointing to automate complex Data Science tasks and recursive "5 Whys" business diagnostics.
+*   **Production Engineering (RAG & Latency):** Proven track record of boosting system performance:
+    *   **Accuracy:** 40% → **95%** via corrective RAG (CRAG) and semantic similarity-based few-shot learning.
+    *   **Latency:** Reduced response time by **66%** (60s → **20s**) implementing fire-and-forget async/threading patterns.
+    *   **Cost:** Reduced ETL costs by **~70%** through vectorized data processing.
+*   **Fault-Tolerant Infrastructure:** Designed robust LLM failover systems (OpenAI ↔ Google ↔ Ollama) with intelligent model escalation (Flash → Pro) and custom observability frameworks in Firestore.
+*   **Applied Research:** Published author in Deep Learning and Signal Processing (EEG), combining academic rigor with production engineering best practices.
 
 ---
 
@@ -44,13 +48,12 @@ A hierarchical multi-agent system designed to autonomously audit and analyze fin
 
 #### 🎯 Key Technical Achievements:
 
-* **Stateful Agent Orchestration:** Built a Supervisor-Worker topology using **LangGraph** with PostgreSQL checkpointing, managing long-running audit sessions across Research, Quant, and Market specialist agents
-* **Advanced RAG Pipeline:** Implemented Corrective RAG (CRAG) with document grading and web search fallback, achieving high-fidelity retrieval from SEC 10-K filings using **pgvector** for semantic search
-* **Production Cloud Deployment:** Fully deployed to **Google Cloud Run** with Cloud SQL (PostgreSQL 16), automated CI/CD via GitHub Actions (~30 min full deployment), and comprehensive testing (Pytest + RAGAS)
-* **Dual-Environment LLM Infrastructure:** Configured automatic switching between **Vertex AI** (Gemini 2.5 Flash Lite + text-embedding-004) for production and Ollama (Llama 3.2) for local development
-* **Human-in-the-Loop Protocol:** Engineered fault-tolerant error recovery for Python REPL execution failures, ensuring system reliability during complex quantitative calculations
-* **Model Context Protocol Pioneer:** First-class integration of **MCP** to standardize connections with real-time market data providers (custom Yahoo Finance server)
-* **Full Stack Engineering:** Responsive React 18 + TailwindCSS dashboard (Glassmorphism design) with FastAPI AsyncIO backend, multi-stage Docker containerization, and CORS-enabled architecture
+* **Stateful Agent Orchestration:** Built a Supervisor-Worker topology using **LangGraph** with PostgreSQL checkpointing, managing long-running audit sessions across Research, Quant, and Market specialist agents.
+* **Advanced RAG Pipeline:** Implemented Corrective RAG (CRAG) with document grading and web search fallback, achieving high-fidelity retrieval from SEC 10-K filings using **pgvector** for semantic search.
+* **Production Cloud Deployment:** Fully deployed to **Google Cloud Run** with Cloud SQL (PostgreSQL 16), automated CI/CD via GitHub Actions (~30 min full deployment), and comprehensive testing (Pytest + RAGAS).
+* **Dual-Environment LLM Infrastructure:** Configured automatic switching between **Vertex AI** (Gemini 2.5 Flash Lite + text-embedding-004) for production and Ollama (Llama 3.2) for local development.
+* **Human-in-the-Loop Protocol:** Engineered fault-tolerant error recovery for Python REPL execution failures, ensuring system reliability during complex quantitative calculations.
+* **Model Context Protocol Pioneer:** First-class integration of **MCP** to standardize connections with real-time market data providers (custom Yahoo Finance server).
 
 **Tech Stack:** LangGraph • FastAPI • React • PostgreSQL • pgvector • Vertex AI • Cloud Run • Docker • GitHub Actions • Pytest • RAGAS • LangSmith
 
@@ -71,6 +74,7 @@ https://doi.org/10.3390/app14188464
 
 ![Langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) 
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
@@ -81,6 +85,7 @@ https://doi.org/10.3390/app14188464
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Google Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -102,6 +107,7 @@ https://doi.org/10.3390/app14188464
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-77ACF1?style=for-the-badge&logo=pandas&logoColor=white)
+![Apache ECharts](https://img.shields.io/badge/Apache_ECharts-AA2A2E?style=for-the-badge&logo=apacheecharts&logoColor=white)
 
 ### 🛠️ Backend & Engineering Stack
 
@@ -111,11 +117,13 @@ https://doi.org/10.3390/app14188464
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![AsyncIO](https://img.shields.io/badge/AsyncIO-333333?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white)
 ![Jinja2](https://img.shields.io/badge/jinja2-%23B41717.svg?style=for-the-badge&logo=jinja&logoColor=white)
 ![SQLModel](https://img.shields.io/badge/SQLModel-171717?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Beanie](https://img.shields.io/badge/Beanie-ODM-FFD43B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-%2320232a.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -171,6 +179,7 @@ https://doi.org/10.3390/app14188464
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
 ![Google sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Libreoffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+
 
 ---
 
