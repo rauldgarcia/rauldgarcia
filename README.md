@@ -13,7 +13,8 @@ I specialize in architecting **production-grade Generative AI systems**, designi
     *   **Accuracy:** 40% → **95%** via corrective RAG (CRAG) and semantic similarity-based few-shot learning.
     *   **Latency:** Reduced response time by **66%** (60s → **20s**) implementing fire-and-forget async/threading patterns.
     *   **Cost:** Reduced ETL costs by **~70%** through vectorized data processing.
-*   **Fault-Tolerant Infrastructure:** Designed robust LLM failover systems (OpenAI ↔ Google ↔ Ollama) with intelligent model escalation (Flash → Pro) and custom observability frameworks in Firestore.
+*   **End-to-End MLOps Pipelines:** Deep expertise orchestrating distributed **PySpark** feature engineering, training algorithmic Meta-Ensembles (XGBoost, LSTMs), tracking experiments with **MLflow**, and automating Data Drift workflows via **Apache Airflow**.
+*   **Fault-Tolerant Infrastructure:** Designed robust LLM failover systems (OpenAI ↔ Google ↔ Ollama) with intelligent model escalation, and "Show, Don't Pay" stateless dual-mode **Cloud Run** architectures.
 *   **Applied Research:** Published author in Deep Learning and Signal Processing (EEG), combining academic rigor with production engineering best practices.
 
 ---
@@ -33,6 +34,32 @@ I specialize in architecting **production-grade Generative AI systems**, designi
 ---
 
 ## 🚀 Featured Open Source Projects
+
+### 📈 [CHRONOS: Enterprise MLOps Forecasting Platform](https://github.com/rauldgarcia/CHRONOS)
+
+[![Backend API](https://img.shields.io/badge/API-Deployed-blue?style=for-the-badge&logo=fastapi)](https://chronos-api-842951566749.us-central1.run.app/docs)
+[![Python](https://img.shields.io/badge/python-3.12+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow)](https://airflow.apache.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
+[![License](https://img.shields.io/badge/license-Private-red?style=for-the-badge)](https://github.com)
+
+**End-to-End MLOps Pipeline and Serverless Forecast Engine**
+
+A production-grade algorithmic forecasting backend serving as the mathematical predictive engine for the TITAN ecosystem.
+
+#### 🎯 Key Technical Deployments:
+
+* **Dual-Mode DevOps Architecture**: Architected a "Show, Don't Pay" system running a full local MLOps stack (PostgreSQL + MLflow Training) that deploys as a **100% Stateless Serverless API** on Google Cloud Run fetching live GCS artifact models.
+* **Distributed Feature Engineering**: Scaled technical indicator calculations utilizing **PySpark** and **PostgreSQL** with rigorous testing via Great Expectations.
+* **Meta-Ensemble Logic**: Automated algorithm that trains, evaluates, and selects the Champion Model (combining Ridge Regression, XGBoost, and TensorFlow LSTM).
+* **Enterprise DAG Orchestration**: Built following strict modern **Cloud Composer standards** via Airflow 2.x (TaskFlow API, TaskGroups, Dynamic Mapping).
+* **Data Drift Automation**: Integrated **Evidently AI** to compute distribution shifts and generate automated HTML degradation reports to trigger self-healing.
+* **Container Fine-tuning**: Reduced production Docker registry size by 80% (isolating `tensorflow-cpu`), accelerating Cloud Run cold startups and API executions.
+
+**Tech Stack:** PySpark • MLflow • Apache Airflow • Evidently AI • FastAPI • XGBoost • TensorFlow • Docker • Google Cloud Run • Google Cloud Storage (GCS) • PostgreSQL
+
+<br>
 
 ### 🏦 [TITAN: Autonomous Financial Intelligence Platform](https://github.com/rauldgarcia/TITAN)
 
@@ -87,6 +114,9 @@ https://doi.org/10.3390/app14188464
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Google Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -100,12 +130,13 @@ https://doi.org/10.3390/app14188464
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1175C0?style=for-the-badge&logo=xgboost&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-77ACF1?style=for-the-badge&logo=pandas&logoColor=white)
 ![Apache ECharts](https://img.shields.io/badge/Apache_ECharts-AA2A2E?style=for-the-badge&logo=apacheecharts&logoColor=white)
